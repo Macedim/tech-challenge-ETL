@@ -1,6 +1,6 @@
 # Documentação Técnica – Pipeline de Alfabetização (Bronze / Silver / Gold)
 
-**Versão:** 1.3  
+**Versão:** 1.4  
 **Data:** Julho/2026  
 **Projeto:** Tech Challenge – Pós-Tech em Artificial Intelligence for Data Scientists (FIAP)
 
