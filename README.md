@@ -440,12 +440,11 @@ refactor: simplifica função read() com suporte a formato automático
 
 ---
 
-**Autor(es):** '''
-               - Afonso Augusto Santana Sales Rios (RM 373057);
-               - Bruno Macedo da Silva (RM 374187);
-               - Dinaldo Ribeiro de Carvalho (RM 370350);
-               - Luís Gustavo Juliano de França
-               '''
-**Grupo:** _131_ 
+**Autor(es):**
+- Afonso Augusto Santana Sales Rios (RM 373057);
+- Bruno Macedo da Silva (RM 374187);
+- Dinaldo Ribeiro de Carvalho (RM 370350);
+- Luís Gustavo Juliano de França (RM 371599)
+**Grupo:** _131_  
 **Data:** _07/2026_  
 **Atualizado em:** _11/07/2026_
