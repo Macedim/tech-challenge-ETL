@@ -446,6 +446,6 @@ refactor: simplifica função read() com suporte a formato automático
 - Dinaldo Ribeiro de Carvalho (RM 370350);
 - Luís Gustavo Juliano de França (RM 371599)
   
-**Grupo:** _131_  
+**Grupo:** _84_  
 **Data:** _07/2026_  
 **Atualizado em:** _11/07/2026_
